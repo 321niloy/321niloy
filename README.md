@@ -21,8 +21,8 @@ I support Real madrid 😎.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
- - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
- - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
+ - 📫 How to reach me: [https://www.facebook.com/niloy.dx/](niloyn670@gmail.com);
+ - 🔗 My website: [https://my-portfolio-b47b3.web.app/]
  
  <br>
 
