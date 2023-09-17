@@ -10,7 +10,7 @@
 
 <br>
 
-Hi, I'm [Niloy Majumder](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that *I can succesfully center an element with css.* Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
+Hi, I'm [Niloy Majumder](https://www.abhishekmaira.com/), a web and Web developer 👨🏻‍💻 from Bangladesh. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that *I can succesfully center an element with css.* Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
 I support Manchester United 👿 and Barcelona 😎.
 
 <br>
