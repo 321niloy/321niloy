@@ -26,7 +26,7 @@ I support Real madrid 😎.
  
  <br>
 
- <p align="left"> <img src="https://i.ibb.co/rGdwGyy/programmer-rounded-edges.gif" alt="AbhishekMaiara10" /> </p>
+ <p align="left"> <img src="" alt="AbhishekMaiara10" /> </p>
  
  </br>
 
