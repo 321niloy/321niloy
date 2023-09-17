@@ -19,7 +19,7 @@ I support Real madrid 😎.
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<img align="right" alt="GIF" src="https://i.ibb.co/rGdwGyy/programmer-rounded-edges.gif" />
 
  - 📫 How to reach me: [https://www.facebook.com/niloy.dx/];
  - 🔗 My website: [https://my-portfolio-b47b3.web.app/]
