@@ -10,8 +10,8 @@
 
 <br>
 
-Hi, I'm [Niloy Majumder](https://www.abhishekmaira.com/), a web and Web developer 👨🏻‍💻 from Bangladesh. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that *I can succesfully center an element with css.* Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
-I support Manchester United 👿 and Barcelona 😎.
+Hi, I'm [Niloy Majumder](https://www.abhishekmaira.com/), a web and Web developer 👨🏻‍💻 from Bangladesh. I'm a Creative react developer ,full stack developer and a product guy, with a constantly growing love for kick ass products.I'm proud to say that *I can succesfully make websites using reacts.* Beside's full stacks web development, I play chess ♘ and Fifa ⚽.
+I support Real madrid 😎.
 
 <br>
 
