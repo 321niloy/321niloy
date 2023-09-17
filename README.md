@@ -25,9 +25,7 @@ I support Real madrid 😎.
  - 🔗 My website: [https://my-portfolio-b47b3.web.app/]
  
  <br>
-
- <p align="left"> <img src="https://i.ibb.co/sRD38gY/Whats-App-Image-2023-09-17-at-15-56-48.jpg" alt="Niloy Majumder" /> </p>
- 
+<p>Niloy Majumder</p>
  </br>
 
 *Languages and Tools:*
